@@ -55,6 +55,11 @@ To find the weights for the edges to the 1-output unit. Weights associated would
 
 ## PROGRAM:
 ```
+
+Name: Ranjith G.
+Register No: 212220220034
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
